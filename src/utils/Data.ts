@@ -52,7 +52,7 @@ export const Data = [
 export const Users = [
   {
     color:"#188ae8",
-    icon: "./public/icon-facebook.svg",
+    icon: "./icon-facebook.svg",
     name: "@nathanf",
     since: 1987,
     date: 12 ,
@@ -60,7 +60,7 @@ export const Users = [
   },
   {
     color:"#188ae8",
-    icon: "./public/icon-twitter.svg",
+    icon: "./icon-twitter.svg",
     name: "@nathanf",
     since: 1044,
     date: 99 ,
@@ -68,7 +68,7 @@ export const Users = [
   },
   {
     color:"bg-gradient-to-r from-[#ffd700] to-[#ff49fb] h-64",
-    icon: "./public/icon-instagram.svg",
+    icon: "./icon-instagram.svg",
     name: "@realnathanf",
     since: "11k",
     date: 1099 ,
@@ -76,7 +76,7 @@ export const Users = [
   },
   {
     color:"#aa0022",
-    icon: "./public/icon-youtube.svg",
+    icon: "./icon-youtube.svg",
     name: "Nathan F",
     since: 8239,
     date: 144,
